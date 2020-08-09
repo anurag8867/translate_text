@@ -1,0 +1,14 @@
+{
+    "port": 3008,
+    "recommended_languages": [
+        "english",
+        "hindi",
+        "french",
+        "spanish",
+        "tamil",
+        "telugu",
+        "kannada",
+        "malayalam",
+        "punjabi"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "translate_text",
+  "version": "1.0.0",
+  "description": "This Project will translate a text into multiple languages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag8867/translate_text.git"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag8867/translate_text/issues"
+  },
+  "homepage": "https://github.com/anurag8867/translate_text#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.16.4",
+    "language-list": "0.0.3",
+    "redis": "^3.0.2"
+  }
+}
